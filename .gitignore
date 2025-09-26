@@ -1,0 +1,23 @@
+# MacOS sistem dosyaları
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon dosyası
+Icon?
+
+# Thumbs ve cache
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+~$*
+
+# Office geçici dosyaları
+~$*.docx
+~$*.xlsx
+~$*.pptx
