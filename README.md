@@ -16,11 +16,11 @@ incelenmiştir. Farklı model denemeleri yapılmış, en iyi sonuç **Log-Lin mo
 
 - 📈 **R² = 0.90** → Çok güçlü açıklama gücü  
 - ❗ **DW ≈ 0.33** → Pozitif otokorelasyon tespit edildi  
-- 📉 **PSAVERT (tasarruf oranı)** ↑ → **Tüketim** ↓  
-- 👥 **UEMPMED ve UNEMPLOY** ↑ → **Tüketim** ↑ (muhtemelen sosyal transferler etkisi)
+- 📉 **PSAVERT (tasarruf oranı)** ↑ **Tüketim** ↓  
+- 👥 **UEMPMED ve UNEMPLOY** ↑ **Tüketim** ↑ 
 
 ## Kullanılan Yöntemler ve Yazılımlar
-- **EViews** (ekonometrik analizler için)
+**EViews** (ekonometrik analizler için)
 - Regresyon Modelleri: Lin-Lin, Log-Lin, Log-Log
 - Birim kök testleri (ADF)
 - Heteroskedastisite testleri (White, Park, Goldfeld-Quandt)
